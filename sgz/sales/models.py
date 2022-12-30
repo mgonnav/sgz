@@ -2,10 +2,11 @@ from django.conf import settings
 from django.core.validators import MinValueValidator
 from django.db import models
 
-from sgz.management.models import PaymentType, PointOfSale, Product
+from sgz.management.models import Allocation, PaymentType, PointOfSale, Product
+from sgz.utils.models import SGZModel
 
 
-class Sale(models.Model):
+class Sale(SGZModel):
     """
     Physical model code: MF-03
     """
@@ -35,7 +36,7 @@ class Sale(models.Model):
     )
 
 
-class SaleDetail(models.Model):
+class SaleDetail(SGZModel):
     """
     Physical model code: MF-06
     """
@@ -44,6 +45,9 @@ class SaleDetail(models.Model):
     product = models.ForeignKey(
         Product, on_delete=models.CASCADE, help_text="Related product."
     )
+    allocation = models.ForeignKey(
+        Allocation, on_delete=models.CASCADE, help_text="Related allocation."
+    )
     price = models.DecimalField(
         max_digits=8,
         decimal_places=2,
@@ -51,10 +55,9 @@ class SaleDetail(models.Model):
         help_text="Sale price of the product.",
     )
     number_of_units = models.PositiveSmallIntegerField(help_text="Number of units.")
-    # Should we add Storeroom?
 
 
-class Payment(models.Model):
+class Payment(SGZModel):
     """
     Physical model code: MF-04
     """
@@ -71,7 +74,7 @@ class Payment(models.Model):
     )
     operation_code = models.CharField(
         max_length=30,
-        null=True,
         blank=True,
         help_text="Operation code related to the payment.",
+        default="",
     )

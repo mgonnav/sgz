@@ -3,6 +3,8 @@ from rest_framework.routers import DefaultRouter, SimpleRouter
 
 from sgz.management.api.views import (
     AllocationViewSet,
+    BrandViewSet,
+    ColorViewSet,
     PaymentTypeViewSet,
     PointOfSaleViewSet,
     ProductViewSet,
@@ -20,6 +22,8 @@ else:
 
 router.register("users", UserViewSet)
 router.register("allocations", AllocationViewSet)
+router.register("brands", BrandViewSet)
+router.register("colors", ColorViewSet)
 router.register("paymenttypes", PaymentTypeViewSet)
 router.register("pointsofsale", PointOfSaleViewSet)
 router.register("products", ProductViewSet)

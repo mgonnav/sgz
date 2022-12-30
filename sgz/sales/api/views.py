@@ -1,9 +1,9 @@
 from django.shortcuts import get_object_or_404
 from rest_framework import status
 from rest_framework.response import Response
-from rest_framework.viewsets import ModelViewSet
 
 from sgz.sales.models import Payment, Sale, SaleDetail
+from sgz.utils.viewsets import BaseSGZViewSet
 
 from .serializers import (
     PaymentCreateSerializer,
@@ -15,7 +15,7 @@ from .serializers import (
 )
 
 
-class SaleViewSet(ModelViewSet):
+class SaleViewSet(BaseSGZViewSet):
     serializer_class = SaleSerializer
     queryset = Sale.objects.all()
 
@@ -26,7 +26,7 @@ class SaleViewSet(ModelViewSet):
         return Response(serializer.data, status=status.HTTP_201_CREATED)
 
 
-class SaleDetailViewSet(ModelViewSet):
+class SaleDetailViewSet(BaseSGZViewSet):
     serializer_class = SaleDetailSerializer
     queryset = SaleDetail.objects.all()
 
@@ -48,7 +48,7 @@ class SaleDetailViewSet(ModelViewSet):
         sale.save()
         return Response(serializer.data, status=status.HTTP_201_CREATED)
 
-    def destroy(self, request, pk=None, *args, **kwargs):
+    def destroy(self, request, *args, pk=None, **kwargs):
         instance = self.get_object()
         sale = instance.sale
         total_amount = instance.price * instance.number_of_units
@@ -59,7 +59,7 @@ class SaleDetailViewSet(ModelViewSet):
         return super().destroy(request, pk, *args, **kwargs)
 
 
-class PaymentViewSet(ModelViewSet):
+class PaymentViewSet(BaseSGZViewSet):
     serializer_class = PaymentSerializer
     queryset = Payment.objects.all()
 
@@ -82,7 +82,7 @@ class PaymentViewSet(ModelViewSet):
         serializer.save(sale_id=sale.id)
         return Response(serializer.data, status=status.HTTP_201_CREATED)
 
-    def destroy(self, request, pk=None, *args, **kwargs):
+    def destroy(self, request, *args, pk=None, **kwargs):
         instance = self.get_object()
         sale = instance.sale
         sale.pending_payment += instance.amount

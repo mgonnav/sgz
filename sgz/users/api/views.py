@@ -28,7 +28,7 @@ class UserViewSet(ModelViewSet):
         serializer = UserSerializer(request.user, context={"request": request})
         return Response(status=status.HTTP_200_OK, data=serializer.data)
 
-    def create(self, request):
+    def create(self, request, *args, **kwargs):
         serializer = UserCreateUpdateSerializer(data=request.data)
         serializer.is_valid(raise_exception=True)
         serializer.save()
@@ -38,7 +38,7 @@ class UserViewSet(ModelViewSet):
             serializer.data, status=status.HTTP_201_CREATED, headers=headers
         )
 
-    def retrieve(self, request, username=""):
+    def retrieve(self, request, *args, username="", **kwargs):
         users = self.queryset.filter(
             Q(username__icontains=username) | Q(full_name__icontains=username)
         )

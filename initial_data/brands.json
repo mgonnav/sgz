@@ -1,0 +1,200 @@
+[
+  {
+    "model": "management.brand",
+    "pk": 1,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Adidas"
+    }
+  },
+  {
+    "model": "management.brand",
+    "pk": 2,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Nike"
+    }
+  },
+  {
+    "model": "management.brand",
+    "pk": 3,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Puma"
+    }
+  },
+  {
+    "model": "management.brand",
+    "pk": 4,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Reebok"
+    }
+  },
+  {
+    "model": "management.brand",
+    "pk": 5,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Reebock"
+    }
+  },
+  {
+    "model": "management.brand",
+    "pk": 6,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Sketcher"
+    }
+  },
+  {
+    "model": "management.brand",
+    "pk": 7,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Under"
+    }
+  },
+  {
+    "model": "management.brand",
+    "pk": 8,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Fila"
+    }
+  },
+  {
+    "model": "management.brand",
+    "pk": 9,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Axis"
+    }
+  },
+  {
+    "model": "management.brand",
+    "pk": 10,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Convert"
+    }
+  },
+  {
+    "model": "management.brand",
+    "pk": 11,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Marca"
+    }
+  },
+  {
+    "model": "management.brand",
+    "pk": 12,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Cp 9012"
+    }
+  },
+  {
+    "model": "management.brand",
+    "pk": 13,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Adidad"
+    }
+  },
+  {
+    "model": "management.brand",
+    "pk": 14,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Reeboock"
+    }
+  },
+  {
+    "model": "management.brand",
+    "pk": 15,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Jordan"
+    }
+  },
+  {
+    "model": "management.brand",
+    "pk": 16,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Nik"
+    }
+  },
+  {
+    "model": "management.brand",
+    "pk": 17,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Reebook"
+    }
+  },
+  {
+    "model": "management.brand",
+    "pk": 18,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Conver"
+    }
+  },
+  {
+    "model": "management.brand",
+    "pk": 19,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Nike xxx"
+    }
+  },
+  {
+    "model": "management.brand",
+    "pk": 20,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Umbro"
+    }
+  },
+  {
+    "model": "management.brand",
+    "pk": 21,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Rreboock"
+    }
+  },
+  {
+    "model": "management.brand",
+    "pk": 22,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "name": "Kyria"
+    }
+  }
+]

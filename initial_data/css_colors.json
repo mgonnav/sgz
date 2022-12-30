@@ -1,0 +1,1253 @@
+[
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Azul Alicia",
+      "hex_code": "#F0F8FF",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Blanco Antigua",
+      "hex_code": "#FAEBD7",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Agua / Cian",
+      "hex_code": "#00FFFF",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Aguamarina",
+      "hex_code": "#7FFFD4",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Azul Cielo",
+      "hex_code": "#F0FFFF",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Beige",
+      "hex_code": "#F5F5DC",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Bisque",
+      "hex_code": "#FFE4C4",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Negro",
+      "hex_code": "#000000",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Almendra Pálido",
+      "hex_code": "#FFEBCD",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Azul",
+      "hex_code": "#0000FF",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Violeta Azul",
+      "hex_code": "#8A2BE2",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Marrón",
+      "hex_code": "#A52A2A",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Madera",
+      "hex_code": "#DEB887",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Azul Cadete",
+      "hex_code": "#5F9EA0",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Chartreuse",
+      "hex_code": "#7FFF00",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Chocolate",
+      "hex_code": "#D2691E",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Coral",
+      "hex_code": "#FF7F50",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Azul Aciano",
+      "hex_code": "#6495ED",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Maíz",
+      "hex_code": "#FFF8DC",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Carmesi",
+      "hex_code": "#DC143C",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Azul Oscuro",
+      "hex_code": "#00008B",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Cian Oscuro",
+      "hex_code": "#008B8B",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Vara de Oro Oscura",
+      "hex_code": "#B8860B",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Verde Oscuro",
+      "hex_code": "#006400",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Gris Oscuro",
+      "hex_code": "#A9A9A9",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Caqui Oscuro",
+      "hex_code": "#BDB76B",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Magenta Oscura",
+      "hex_code": "#8B008B",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Verde Oliva Oscuro",
+      "hex_code": "#556B2F",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Naranja Oscura",
+      "hex_code": "#FF8C00",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Orquidea Oscura",
+      "hex_code": "#9932CC",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Rojo Oscura",
+      "hex_code": "#8B0000",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Salmón Oscuro",
+      "hex_code": "#E9967A",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Oscuro mar Verde",
+      "hex_code": "#8FBC8F",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Azul Pizarra Oscuro",
+      "hex_code": "#483D8B",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Gris Pizarra Oscuro",
+      "hex_code": "#2F4F4F",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Turquesa Oscuro",
+      "hex_code": "#00CED1",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Púrpura Oscuro",
+      "hex_code": "#9400D3",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Rosa Profundo",
+      "hex_code": "#FF1493",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Cielo Azul Profundo",
+      "hex_code": "#00BFFF",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Gris Apagado",
+      "hex_code": "#696969",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Cubierta Azul",
+      "hex_code": "#1E90FF",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Ladrillo Refractario",
+      "hex_code": "#B22222",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Blanco Floral",
+      "hex_code": "#FFFAF0",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Verde Bosque",
+      "hex_code": "#228B22",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Fucsia",
+      "hex_code": "#FF00FF",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Gainsboro",
+      "hex_code": "#DCDCDC",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Fantasma Blanco",
+      "hex_code": "#F8F8FF",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Oro",
+      "hex_code": "#FFD700",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Solidago",
+      "hex_code": "#DAA520",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Gris",
+      "hex_code": "#808080",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Verde",
+      "hex_code": "#008000",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Verde Amarillo",
+      "hex_code": "#ADFF2F",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Ambrosía",
+      "hex_code": "#F0FFF0",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Rosa Brillante",
+      "hex_code": "#FF69B4",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Rojo Indio",
+      "hex_code": "#CD5C5C",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Índigo",
+      "hex_code": "#4B0082",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Marfil",
+      "hex_code": "#FFFFF0",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Caqui",
+      "hex_code": "#F0E68C",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Lavanda",
+      "hex_code": "#E6E6FA",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Rosa Lavanda",
+      "hex_code": "#FFF0F5",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Verde Césped",
+      "hex_code": "#7CFC00",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Gasa Amarilla",
+      "hex_code": "#FFFACD",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Azul Luz",
+      "hex_code": "#ADD8E6",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Rojo Coral Brillante",
+      "hex_code": "#F08080",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Cian Luz",
+      "hex_code": "#E0FFFF",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Amarillo Dorado Claro",
+      "hex_code": "#FAFAD2",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Verde Claro",
+      "hex_code": "#90EE90",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Gris Claro",
+      "hex_code": "#D3D3D3",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Rosa Claro",
+      "hex_code": "#FFB6C1",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Salmón Claro",
+      "hex_code": "#FFA07A",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Verde Mar Claro",
+      "hex_code": "#20B2AA",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Cielo Azul Brillante",
+      "hex_code": "#87CEFA",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Gris Pizarra Brillante",
+      "hex_code": "#778899",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Azul Acero Brillante",
+      "hex_code": "#B0C4DE",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Amarillo Claro",
+      "hex_code": "#FFFFE0",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Lima",
+      "hex_code": "#00FF00",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Verde Lima",
+      "hex_code": "#32CD32",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Lino",
+      "hex_code": "#FAF0E6",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Magenta",
+      "hex_code": "#FF00FF",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Granate",
+      "hex_code": "#800000",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Aguamarina Mediana",
+      "hex_code": "#66CDAA",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Azul Medio",
+      "hex_code": "#0000CD",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Orquidea Media",
+      "hex_code": "#BA55D3",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Púrpura Medio",
+      "hex_code": "#9370DB",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Mar Verde Medio",
+      "hex_code": "#3CB371",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Azul Pizarra Mediana",
+      "hex_code": "#7B68EE",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Verde Primavera Mediana",
+      "hex_code": "#00FA9A",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Turquesa Medio",
+      "hex_code": "#48D1CC",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Rojo Púrpura Medio",
+      "hex_code": "#C71585",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Azul Medianoche",
+      "hex_code": "#191970",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Menta Cremosa",
+      "hex_code": "#F5FFFA",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Rojo Viejo",
+      "hex_code": "#FFE4E1",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Mocassin",
+      "hex_code": "#FFE4B5",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Blanco Navajo",
+      "hex_code": "#FFDEAD",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Azul Marino",
+      "hex_code": "#000080",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Encaje Viejo",
+      "hex_code": "#FDF5E6",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Verde Oliva",
+      "hex_code": "#808000",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Gris Oliva Marrón",
+      "hex_code": "#6B8E23",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Naranja",
+      "hex_code": "#FFA500",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Rojo Anaranjado",
+      "hex_code": "#FF4500",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Orquídea",
+      "hex_code": "#DA70D6",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Vara de Oro Pálida",
+      "hex_code": "#EEE8AA",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Verde Pálido",
+      "hex_code": "#98FB98",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Turquesa Pálido",
+      "hex_code": "#AFEEEE",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Rojo Violeta Pálido",
+      "hex_code": "#DB7093",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Crema de Papaya",
+      "hex_code": "#FFEFD5",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Melocotón",
+      "hex_code": "#FFDAB9",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Perú",
+      "hex_code": "#CD853F",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Rosa",
+      "hex_code": "#FFC0CB",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Ciruela",
+      "hex_code": "#DDA0DD",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Azul Palomas",
+      "hex_code": "#B0E0E6",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Púrpura",
+      "hex_code": "#800080",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Rojo",
+      "hex_code": "#FF0000",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Marrón Rosado",
+      "hex_code": "#BC8F8F",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Azul Real",
+      "hex_code": "#4169E1",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Marrón Ensillar",
+      "hex_code": "#8B4513",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Salmón",
+      "hex_code": "#FA8072",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Marrón Arena",
+      "hex_code": "#F4A460",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Verde Lago",
+      "hex_code": "#2E8B57",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Concha",
+      "hex_code": "#FFF5EE",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Tierra de Siena",
+      "hex_code": "#A0522D",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Plata",
+      "hex_code": "#C0C0C0",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Cielo Azul",
+      "hex_code": "#87CEEB",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Azul Pizarra",
+      "hex_code": "#6A5ACD",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Gris Pizarra",
+      "hex_code": "#708090",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Blanco Nieve",
+      "hex_code": "#FFFAFA",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Verde del Resorte",
+      "hex_code": "#00FF7F",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Azul de Acero",
+      "hex_code": "#4682B4",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Bronceado",
+      "hex_code": "#D2B48C",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Verde Azulado",
+      "hex_code": "#008080",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Cardo",
+      "hex_code": "#D8BFD8",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Tomate",
+      "hex_code": "#FF6347",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Turquesa",
+      "hex_code": "#40E0D0",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Violeta",
+      "hex_code": "#EE82EE",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Trigo",
+      "hex_code": "#F5DEB3",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Blanco",
+      "hex_code": "#FFFFFF",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Blanco Humo",
+      "hex_code": "#F5F5F5",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Amarillo",
+      "hex_code": "#FFFF00",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  },
+  {
+    "model": "management.color",
+    "fields": {
+      "name": "Amarillo Verde",
+      "hex_code": "#9ACD32",
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z"
+    }
+  }
+]

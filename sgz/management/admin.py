@@ -1,6 +1,8 @@
 from django.contrib import admin
 
 from sgz.management.models import (
+    Brand,
+    Color,
     PaymentType,
     PointOfSale,
     Product,
@@ -8,6 +10,16 @@ from sgz.management.models import (
     ShoeModel,
     Storeroom,
 )
+
+
+@admin.register(Brand)
+class BrandAdmin(admin.ModelAdmin):
+    pass
+
+
+@admin.register(Color)
+class ColorAdmin(admin.ModelAdmin):
+    pass
 
 
 @admin.register(PaymentType)

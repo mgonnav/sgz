@@ -1,0 +1,7034 @@
+[
+  {
+    "model": "management.shoemodel",
+    "pk": 1,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "CM7725",
+      "name": "Terrex Ax2",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 2,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "BC0694",
+      "name": "Terrex",
+      "colors": [2]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 3,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "BCO524",
+      "name": "Terrex Ax3/plta Cont",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 4,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "A57979",
+      "name": "Terrex Pega",
+      "colors": [3]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 5,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EF3512",
+      "name": "Terrex Cont",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 6,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EG2885",
+      "name": "Terrex Cont",
+      "colors": [4]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 7,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FX4702",
+      "name": "Terrex Eastral",
+      "colors": [5]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 8,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EF3515",
+      "name": "Terrex Eastrail",
+      "colors": [6]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 9,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "BAQ422",
+      "name": "Alta Run Psdor",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 10,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "CM8378",
+      "name": "Alta Run",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 11,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "CM8580",
+      "name": "Alta Run X",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 12,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EF1093",
+      "name": "Tensur Escolar",
+      "colors": [8]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 13,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "AW4884",
+      "name": "Advantage",
+      "colors": [9]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 14,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "BB9976",
+      "name": "Advantage",
+      "colors": [10]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 15,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EE7692",
+      "name": "Advantage",
+      "colors": [11]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 16,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EF0221",
+      "name": "Advantage/pg",
+      "colors": [12]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 17,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "881941013",
+      "name": "Basket Caña",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 18,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "BB9939",
+      "name": "Claudofom",
+      "colors": [13]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 19,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "CP8840",
+      "name": "Claudofom",
+      "colors": [14]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 20,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "F36410",
+      "name": "Grand Court",
+      "colors": [15]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 21,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EE6807",
+      "name": "Vl Court 2.0 Urb",
+      "colors": [16]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 22,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EF0573",
+      "name": "Game Court",
+      "colors": [17]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 23,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "B96551",
+      "name": "Paramation",
+      "colors": [18]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 24,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EF0148",
+      "name": "Runfalcon",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 25,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EE6932",
+      "name": "Runfalconi",
+      "colors": [19]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 26,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "F36541",
+      "name": "Runfalconi",
+      "colors": [20]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 27,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FY5946",
+      "name": "Runfalcony 2.0",
+      "colors": [21]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 28,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FZ2802",
+      "name": "Runfalcony 2.1",
+      "colors": [22]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 29,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FZ2807",
+      "name": "Runfalcony 2.0",
+      "colors": [23]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 30,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FY9498",
+      "name": "Runfalcony",
+      "colors": [24]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 31,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EG2544",
+      "name": "Runfalconi",
+      "colors": [25]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 32,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FV9441",
+      "name": "Runfalconi K",
+      "colors": [26]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 33,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "AQ1775002",
+      "name": "Cuero",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 34,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "78906",
+      "name": "Super Star",
+      "colors": [27]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 35,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "C77154",
+      "name": "Super Star",
+      "colors": [28]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 36,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "BA8380",
+      "name": "Super Star",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 37,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "C77394",
+      "name": "Super Star",
+      "colors": [27]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 38,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "B23642",
+      "name": "Super Star",
+      "colors": [29]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 39,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "BA8379",
+      "name": "Super Star",
+      "colors": [30]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 40,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "789002",
+      "name": "Super Star",
+      "colors": [31]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 41,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "BB-5408",
+      "name": "Super Star",
+      "colors": [32]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 42,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "BA7666",
+      "name": "Super Star",
+      "colors": [11]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 43,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "B23665",
+      "name": "Super Star",
+      "colors": [33]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 44,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "B22713",
+      "name": "Stan Smit",
+      "colors": [34]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 45,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EF0213",
+      "name": "Advantage",
+      "colors": [35]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 46,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "CG6676",
+      "name": "Stan Smit",
+      "colors": [36]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 47,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "BB9623",
+      "name": "Advantage",
+      "colors": [37]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 48,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "B75798",
+      "name": "V Raccer",
+      "colors": [38]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 49,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "F33969",
+      "name": "Alphabounce",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 50,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "CG4025",
+      "name": "Boss Super",
+      "colors": [39]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 51,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "F36331",
+      "name": "Aswer Run",
+      "colors": [13]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 52,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "BB7048",
+      "name": "Lite Racer Claudf",
+      "colors": [40]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 53,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "AH2458",
+      "name": "Aveng Marvel",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 54,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "CG5738",
+      "name": "Hoops",
+      "colors": [14]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 55,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "G27187",
+      "name": "Fr Mickey",
+      "colors": [41]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 56,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FV4257",
+      "name": "Fr Mickey",
+      "colors": [42]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 57,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FW7428",
+      "name": "Fr Mickey",
+      "colors": [43]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 58,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FV4263",
+      "name": "Fr Frozen",
+      "colors": [6]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 59,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EF9743",
+      "name": "Fr Frosen",
+      "colors": [44]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 60,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FV4262",
+      "name": "Fr Frozen",
+      "colors": [45]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 61,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FV4185",
+      "name": "Fr Frozen",
+      "colors": [45]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 62,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EE6957",
+      "name": "Forta Run",
+      "colors": [46]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 63,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FW2597",
+      "name": "Forta Run",
+      "colors": [47]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 64,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FW2579",
+      "name": "Forta Run",
+      "colors": [29]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 65,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FW2577",
+      "name": "Forta Run",
+      "colors": [48]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 66,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FV2638",
+      "name": "Forta Run",
+      "colors": [48]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 67,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EF9693",
+      "name": "Forta Run",
+      "colors": [49]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 68,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "G27142",
+      "name": "Forta Run",
+      "colors": [50]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 69,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FW2594",
+      "name": "Forta Run Xk",
+      "colors": [51]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 70,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FV4100",
+      "name": "Rapida Run J",
+      "colors": [52]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 71,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FV6021",
+      "name": "Super Nova W",
+      "colors": [53]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 72,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "6018",
+      "name": "Super Nova W",
+      "colors": [18]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 73,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FX4832",
+      "name": "Rasponce",
+      "colors": [54]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 74,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EH2527",
+      "name": "Mavia X",
+      "colors": [55]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 75,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EF5913",
+      "name": "Path Rum",
+      "colors": [25]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 76,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EG8633",
+      "name": "Runfalconi",
+      "colors": [25]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 77,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EH1403",
+      "name": "Nova Flow",
+      "colors": [56]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 78,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EF8909",
+      "name": "Pulse Boost Hd",
+      "colors": [40]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 79,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EG9971",
+      "name": "Pulse Boost Hd",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 80,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EE7885",
+      "name": "Gran Court",
+      "colors": [57]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 81,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FV8108",
+      "name": "Cour Master",
+      "colors": [58]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 82,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "B32703",
+      "name": "Stan Smit",
+      "colors": [12]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 83,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FX3647",
+      "name": "Responce",
+      "colors": [59]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 84,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EG1293",
+      "name": "Edge Lux",
+      "colors": [60]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 85,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "G28444",
+      "name": "Edge Lux",
+      "colors": [61]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 86,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FW7393",
+      "name": "Durama",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 87,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EF1442",
+      "name": "Solas Ride",
+      "colors": [62]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 88,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EG8369",
+      "name": "Galaxy 4",
+      "colors": [63]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 89,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FV0987",
+      "name": "Samkei",
+      "colors": [64]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 90,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FV0985",
+      "name": "Samkei",
+      "colors": [65]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 91,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EG0957",
+      "name": "Senso Boost",
+      "colors": [66]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 92,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EG0960",
+      "name": "Senso Boost",
+      "colors": [67]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 93,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FV7388",
+      "name": "Continental",
+      "colors": [68]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 94,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EG1596",
+      "name": "Vs Switchh",
+      "colors": [14]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 95,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EH0539",
+      "name": "Archivo C",
+      "colors": [69]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 96,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EH0533",
+      "name": "Archivo C",
+      "colors": [70]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 97,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EG5141",
+      "name": "Vs Switchh",
+      "colors": [69]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 98,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FY8887",
+      "name": "Ultrabosh",
+      "colors": [71]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 99,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FW4002",
+      "name": "Tensur",
+      "colors": [72]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 100,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EF1102",
+      "name": "Tensur",
+      "colors": [21]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 101,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EE4266",
+      "name": "Plta Ultrabosh",
+      "colors": [73]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 102,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "B37294",
+      "name": "Samba",
+      "colors": [21]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 103,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "B39796",
+      "name": "Tennis",
+      "colors": [74]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 104,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EF5909",
+      "name": "Path Run",
+      "colors": [75]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 105,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EG9122",
+      "name": "Path Run",
+      "colors": [18]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 106,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FX3594",
+      "name": "Racer",
+      "colors": [76]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 107,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FX3581",
+      "name": "Coreracer",
+      "colors": [21]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 108,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FY6746",
+      "name": "Galxy5",
+      "colors": [77]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 109,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FY6743",
+      "name": "Galxy6",
+      "colors": [78]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 110,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FY6718",
+      "name": "Galaxy 5",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 111,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FY6717",
+      "name": "Galaxy 5",
+      "colors": [79]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 112,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FW1187",
+      "name": "Galaxy 5",
+      "colors": [80]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 113,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FW6125",
+      "name": "Galaxy5",
+      "colors": [21]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 114,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "AT8150-010",
+      "name": "Jr Super Fly7",
+      "colors": [81]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 115,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "454500-001",
+      "name": "Pico",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 116,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "832883-011",
+      "name": "Pico",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 117,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "454500-104",
+      "name": "Pico",
+      "colors": [82]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 118,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "AV3167-100",
+      "name": "Pico Pega/pazd",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 119,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "314183-117",
+      "name": "For One",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 120,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "314193-117",
+      "name": "For One",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 121,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "314192-009",
+      "name": "For One",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 122,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "315115038",
+      "name": "For One",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 123,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CT1414-100",
+      "name": "For One",
+      "colors": [9]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 124,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CN8533-100",
+      "name": "For One",
+      "colors": [83]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 125,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "315115-157",
+      "name": "For One",
+      "colors": [12]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 126,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CK7648-002",
+      "name": "For One",
+      "colors": [84]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 127,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CK7648-100",
+      "name": "For One",
+      "colors": [85]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 128,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "314192-117",
+      "name": "For One",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 129,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "881942405",
+      "name": "Caña Basket",
+      "colors": [25]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 130,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "881941005",
+      "name": "Hustle /basket",
+      "colors": [18]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 131,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "861537008",
+      "name": "Camuflada",
+      "colors": [86]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 132,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "881953-005",
+      "name": "Pegaso Zum",
+      "colors": [87]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 133,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "843975800",
+      "name": "Zuum",
+      "colors": [88]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 134,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "844546-00-1",
+      "name": "Zoom",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 135,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "818100-001",
+      "name": "Zoom",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 136,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "A7066-066",
+      "name": "Air Max Infurt Bask",
+      "colors": [89]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 137,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "AA7066-001",
+      "name": "Air Max Infurt Bask",
+      "colors": [90]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 138,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "A00554-001",
+      "name": "Air Max",
+      "colors": [91]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 139,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "908984-004",
+      "name": "Dowshister",
+      "colors": [18]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 140,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "908934-001",
+      "name": "Dowshister",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 141,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "869972",
+      "name": "Dowshister",
+      "colors": [92]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 142,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CZ3949001",
+      "name": "Dowshister",
+      "colors": [93]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 143,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "599409414",
+      "name": "Thea",
+      "colors": [94]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 144,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "B14444-009",
+      "name": "Thea Air Max",
+      "colors": [95]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 145,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "59409-108",
+      "name": "Thea",
+      "colors": [11]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 146,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "943309-501",
+      "name": "Revolution 4",
+      "colors": [40]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 147,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "819302-001",
+      "name": "Revolution",
+      "colors": [96]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 148,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "BQ3204-002",
+      "name": "Revolution",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 149,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "AT1368-401",
+      "name": "Reat",
+      "colors": [25]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 150,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "924206-300",
+      "name": "Training",
+      "colors": [97]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 151,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CV3580-002",
+      "name": "Training",
+      "colors": [98]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 152,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "943287-602",
+      "name": "Flex",
+      "colors": [99]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 153,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "709021-001",
+      "name": "Flex",
+      "colors": [100]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 154,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "924339-001",
+      "name": "Flex Tr8",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 155,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "AH3470-001",
+      "name": "Rival",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 156,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "AH3472-600",
+      "name": "Rival",
+      "colors": [14]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 157,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CD7093-102",
+      "name": "Strada",
+      "colors": [101]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 158,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "BB1229003",
+      "name": "Air Max",
+      "colors": [18]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 159,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "924338-001",
+      "name": "Air Max Training",
+      "colors": [67]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 160,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CW4554-600",
+      "name": "Air Max Sc",
+      "colors": [102]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 161,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CW4555-004",
+      "name": "Air Max Sc",
+      "colors": [103]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 162,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CJ0842-007",
+      "name": "Air Max E",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 163,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "AQ0266-009",
+      "name": "Air Capsula",
+      "colors": [104]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 164,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "AT4617-001",
+      "name": "Air Capsula",
+      "colors": [105]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 165,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CD4165-103",
+      "name": "Airmax Exel",
+      "colors": [11]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 166,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "AA2146-800",
+      "name": "Airmax Axis",
+      "colors": [106]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 167,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "AA2146-003",
+      "name": "Airmax Axis",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 168,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CT1430-101",
+      "name": "Renew",
+      "colors": [107]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 169,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "BG3204-002",
+      "name": "Revolution",
+      "colors": [29]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 170,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "BQ3207008",
+      "name": "Revolution",
+      "colors": [108]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 171,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CZ8591-001",
+      "name": "Revolution",
+      "colors": [29]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 172,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "BQ3204-400",
+      "name": "Revolution 5",
+      "colors": [25]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 173,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "AT1238-003",
+      "name": "Renew",
+      "colors": [109]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 174,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CJ3816002",
+      "name": "Wearlday",
+      "colors": [110]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 175,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CJ3816103",
+      "name": "Wearlday",
+      "colors": [111]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 176,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "749747-010",
+      "name": "Court Urb",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 177,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CJ1682-004",
+      "name": "Wearllday",
+      "colors": [98]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 178,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CJ3816-002",
+      "name": "Wearalday",
+      "colors": [29]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 179,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CJ3816-103",
+      "name": "Wearallday",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 180,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CJ1677-602",
+      "name": "Wearallday",
+      "colors": [14]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 181,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CJ1677-104",
+      "name": "Wearallday",
+      "colors": [112]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 182,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CD0230-404",
+      "name": "Quest 3",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 183,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CD0230-002",
+      "name": "Quest",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 184,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "306462-01",
+      "name": "Jordan",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 185,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "36738201",
+      "name": "Wired Knit",
+      "colors": [90]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 186,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "37360407",
+      "name": "Carina Rosa Water",
+      "colors": [113]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 187,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "36676801",
+      "name": "Roma Clamur",
+      "colors": [114]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 188,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "370986-01",
+      "name": "Cabana Racer Glitz",
+      "colors": [115]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 189,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "33980501",
+      "name": "Bhw Hhs Drift Ultra",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 190,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "37154303",
+      "name": "Corflex V2",
+      "colors": [116]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 191,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "36265001",
+      "name": "Corflex",
+      "colors": [40]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 192,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "19297204",
+      "name": "Fun Racer",
+      "colors": [117]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 193,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "191097-27",
+      "name": "Engimeeer Knit",
+      "colors": [118]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 194,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "365208-19",
+      "name": "Soft Foom Samach",
+      "colors": [119]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 195,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "370488-08",
+      "name": "Rebound/caña",
+      "colors": [120]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 196,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "370488-07",
+      "name": "Rebound Layup",
+      "colors": [121]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 197,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "19307802",
+      "name": "Prowslip",
+      "colors": [122]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 198,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "19349601",
+      "name": "Sg Runner Quilted",
+      "colors": [123]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 199,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "19349302",
+      "name": "Sg Rummer Embroidery",
+      "colors": [25]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 200,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "37210401",
+      "name": "Love Wns",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 201,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "30619502",
+      "name": "Roma",
+      "colors": [8]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 202,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "30608304",
+      "name": "Roma-ferrary",
+      "colors": [124]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 203,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "30619501BMW",
+      "name": "Roma",
+      "colors": [29]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 204,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "30608305",
+      "name": "Roma-ferrary",
+      "colors": [25]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 205,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "37301805",
+      "name": "Dptvo Taper",
+      "colors": [8]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 206,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "193244-01",
+      "name": "Alt Asym",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 207,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "192632-04",
+      "name": "Radiate Xtpaterm",
+      "colors": [14]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 208,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "370009-07",
+      "name": "Pacer Next Excel Core",
+      "colors": [125]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 209,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "193158-02",
+      "name": "Radiate Xt Jelly",
+      "colors": [126]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 210,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "371571-05",
+      "name": "R5 9.8 Fresh",
+      "colors": [127]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 211,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "37292001",
+      "name": "Xray",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 212,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "19373308",
+      "name": "Softride",
+      "colors": [128]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 213,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "19370701",
+      "name": "Softride",
+      "colors": [129]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 214,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "19479901",
+      "name": "Resolve",
+      "colors": [130]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 215,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "37424002",
+      "name": "Taper",
+      "colors": [21]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 216,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "37575303",
+      "name": "Urbana",
+      "colors": [21]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 217,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "30590301",
+      "name": "Ferrary",
+      "colors": [131]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 218,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "19148705",
+      "name": "Enzo Weave",
+      "colors": [18]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 219,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "37000910",
+      "name": "Racer Next",
+      "colors": [132]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 220,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 4,
+      "code": "19536",
+      "name": "Prince",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 221,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 5,
+      "code": "J95362",
+      "name": "Prince",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 222,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 5,
+      "code": "J95361",
+      "name": "Prince",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 223,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 4,
+      "code": "·118379934",
+      "name": "Clasica Orcoplus",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 224,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 5,
+      "code": "1475",
+      "name": "Prince",
+      "colors": [133]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 225,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 5,
+      "code": "FV5294",
+      "name": "Prince",
+      "colors": [134]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 226,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 5,
+      "code": "7344",
+      "name": "Prince",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 227,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 5,
+      "code": "995361",
+      "name": "Prince",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 228,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 6,
+      "code": "BBK12817",
+      "name": "Sketcher",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 229,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 6,
+      "code": "BKG13100",
+      "name": "Sketcher",
+      "colors": [90]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 230,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 6,
+      "code": "2200817",
+      "name": "Nvgd",
+      "colors": [135]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 231,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 6,
+      "code": "220027",
+      "name": "Bkcc",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 232,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 6,
+      "code": "996472",
+      "name": "L/pkmt",
+      "colors": [136]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 233,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 6,
+      "code": "149346",
+      "name": "Nvpk",
+      "colors": [137]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 234,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 6,
+      "code": "232069",
+      "name": "Bbk",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 235,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 6,
+      "code": "400017LBKY5",
+      "name": "Bkgy",
+      "colors": [90]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 236,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 6,
+      "code": "3020422",
+      "name": "Gymt",
+      "colors": [138]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 237,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 6,
+      "code": "400017",
+      "name": "Camo",
+      "colors": [139]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 238,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 6,
+      "code": "328161",
+      "name": "Bkgd",
+      "colors": [110]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 239,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 6,
+      "code": "8446OL-GLD",
+      "name": "Gld",
+      "colors": [44]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 240,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 7,
+      "code": "302033",
+      "name": "Under",
+      "colors": [131]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 241,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 7,
+      "code": "30",
+      "name": "Under",
+      "colors": [25]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 242,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 7,
+      "code": "3021248-500",
+      "name": "Under",
+      "colors": [92]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 243,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 8,
+      "code": "802725",
+      "name": "31v308x-3165",
+      "colors": [49]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 244,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 9,
+      "code": "F8204-17",
+      "name": "Voley",
+      "colors": [29]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 245,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 9,
+      "code": "18AW1014A004",
+      "name": "Voley",
+      "colors": [17]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 246,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 10,
+      "code": "7131801",
+      "name": "Convert Cañ Baja",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 247,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 11,
+      "code": "CODIGO",
+      "name": "Modelo",
+      "colors": [22]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 248,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "852484001",
+      "name": "Chimp Mercurial",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 249,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "DB2318",
+      "name": "Chimp Predator",
+      "colors": [73]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 250,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "7332-070",
+      "name": "Chimpun Mercurial",
+      "colors": [68]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 251,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "CP-9174",
+      "name": "Chim/nemezis",
+      "colors": [28]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 252,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "DB2416",
+      "name": "Chimpun Nemeziz 173",
+      "colors": [127]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 253,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "903600",
+      "name": "Chimpun",
+      "colors": [131]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 254,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "BB9436",
+      "name": "Chimpun 18.3fg",
+      "colors": [52]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 255,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "SGC",
+      "name": "Chimpun Nemeziz 173",
+      "colors": [54]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 256,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 12,
+      "code": "PRB698001",
+      "name": "Chimpun",
+      "colors": [73]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 257,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "AO328840",
+      "name": "Chimpun Phanton",
+      "colors": [127]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 258,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "CM8508",
+      "name": "Chim Nemezis",
+      "colors": [92]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 259,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "852580",
+      "name": "Chimp Hiperv",
+      "colors": [37]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 260,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CW6672-060",
+      "name": "Phantom Gt/chimp",
+      "colors": [131]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 261,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "DB2396",
+      "name": "Messi",
+      "colors": [110]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 262,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "CP9914",
+      "name": "Chot Predator",
+      "colors": [104]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 263,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "DB2435",
+      "name": "Choteras",
+      "colors": [86]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 264,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "DB0538",
+      "name": "Chot Nemezis",
+      "colors": [95]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 265,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "BB585",
+      "name": "Chot Goleta",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 266,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "BB0560",
+      "name": "Chot Mercuri Conquista",
+      "colors": [119]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 267,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "10474501",
+      "name": "One 3 Lth Tt",
+      "colors": [96]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 268,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "10475103",
+      "name": "One 4 Syn Tt",
+      "colors": [23]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 269,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "10449904",
+      "name": "Spirit Tt",
+      "colors": [55]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 270,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "AH7317-107",
+      "name": "Macistax",
+      "colors": [11]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 271,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "852598308",
+      "name": "Mercurial",
+      "colors": [26]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 272,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EF7247",
+      "name": "Chot /goleto",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 273,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EF7246",
+      "name": "Choteras",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 274,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 13,
+      "code": "BB9404",
+      "name": "Choteras",
+      "colors": [65]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 275,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "F99936",
+      "name": "Chot Nemesis",
+      "colors": [17]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 276,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "917772-816",
+      "name": "Mercury",
+      "colors": [97]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 277,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "AJ3112-6500",
+      "name": "Chot Mercuri",
+      "colors": [123]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 278,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "AH7293-107",
+      "name": "Chot Hipervenum",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 279,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EP1950",
+      "name": "Predator",
+      "colors": [120]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 280,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "CM8636",
+      "name": "Messi",
+      "colors": [89]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 281,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "E40602",
+      "name": "Nemeziz Messi",
+      "colors": [70]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 282,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "DB2338",
+      "name": "Chot Predator",
+      "colors": [21]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 283,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EG8214",
+      "name": "Xghosted",
+      "colors": [136]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 284,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EE4483",
+      "name": "Goleto",
+      "colors": [21]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 285,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "AT7980-060",
+      "name": "Super Fly7clu",
+      "colors": [118]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 286,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EG7235",
+      "name": "Nemezis",
+      "colors": [132]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 287,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CZ5631-102",
+      "name": "Reposto",
+      "colors": [8]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 288,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CZ5631-015",
+      "name": "Reposto",
+      "colors": [15]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 289,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CZ5631-012",
+      "name": "Reposto",
+      "colors": [29]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 290,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CU3507-405",
+      "name": "Renew 2",
+      "colors": [38]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 291,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CU3504-007",
+      "name": "Renew 2",
+      "colors": [28]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 292,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CU3507-001",
+      "name": "Renew 2",
+      "colors": [103]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 293,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CU3504-001",
+      "name": "Renew 2",
+      "colors": [120]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 294,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "HO4519",
+      "name": "Runfalcony",
+      "colors": [2]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 295,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FZ0961",
+      "name": "Run Gos",
+      "colors": [29]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 296,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FZ0963",
+      "name": "Run Gos",
+      "colors": [47]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 297,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "HO4590",
+      "name": "Fluid Flow",
+      "colors": [18]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 298,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "306877-01",
+      "name": "Bmw-xray",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 299,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "306877-02",
+      "name": "Bmw-xray",
+      "colors": [11]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 300,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FW5837",
+      "name": "Chot X Ghosted",
+      "colors": [55]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 301,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "AT8145906",
+      "name": "Jr Vapor 13a6",
+      "colors": [65]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 302,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CU3505-005",
+      "name": "Ronew",
+      "colors": [30]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 303,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FV5216",
+      "name": "Terrex Hiper Hiker",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 304,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "CZ7417",
+      "name": "Run Falcony",
+      "colors": [75]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 305,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "CZ7418",
+      "name": "Run Falcony",
+      "colors": [52]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 306,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "BQ3207-104",
+      "name": "Revolution",
+      "colors": [11]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 307,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "BQ3207-605",
+      "name": "Revolution",
+      "colors": [98]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 308,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FV0864",
+      "name": "Chot",
+      "colors": [23]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 309,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "19372310",
+      "name": "Space Runner",
+      "colors": [18]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 310,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "19372307",
+      "name": "Space Runner",
+      "colors": [90]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 311,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "106403-02",
+      "name": "Farurez Chot",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 312,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "106368-02",
+      "name": "Ultra 4.2 Chot",
+      "colors": [12]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 313,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DA1349-600",
+      "name": "Renewim Seasom",
+      "colors": [113]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 314,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DA1349-100",
+      "name": "Renewim Seasom",
+      "colors": [45]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 315,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "374896-03",
+      "name": "R78 Futr Decom",
+      "colors": [40]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 316,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "373029-03",
+      "name": "C-skate",
+      "colors": [136]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 317,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "370548-14",
+      "name": "Carina Slim",
+      "colors": [69]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 318,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "831949303",
+      "name": "Mercurial",
+      "colors": [93]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 319,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "CM8556",
+      "name": "Predator",
+      "colors": [36]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 320,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CU3505-502",
+      "name": "Renew Run",
+      "colors": [114]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 321,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CU3505-105",
+      "name": "Renew Run",
+      "colors": [70]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 322,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CJ1682-101",
+      "name": "Weralldai",
+      "colors": [43]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 323,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CZ4178-015",
+      "name": "Air Zuum Pegasu",
+      "colors": [68]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 324,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CD6888-002",
+      "name": "Renet Wsion",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 325,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DA1105-003",
+      "name": "Quest",
+      "colors": [13]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 326,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "HO4620",
+      "name": "Duramo Sl",
+      "colors": [40]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 327,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FY9256",
+      "name": "Terrex Soult Stride",
+      "colors": [116]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 328,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "HO2011",
+      "name": "Courtsmash",
+      "colors": [12]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 329,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "852487-001",
+      "name": "Mercurial Chot",
+      "colors": [91]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 330,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EF8220",
+      "name": "Predator Cho",
+      "colors": [124]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 331,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "G25801",
+      "name": "Predator Cho",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 332,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CU3517-001",
+      "name": "Run Swift",
+      "colors": [47]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 333,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "AT8120-414",
+      "name": "Chu Mercurial",
+      "colors": [132]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 334,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "AJ3111-600",
+      "name": "Chus Mercurial",
+      "colors": [131]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 335,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "852489-001",
+      "name": "Chus Mercurial",
+      "colors": [89]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 336,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "GZ-8078",
+      "name": "Run Falcony",
+      "colors": [52]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 337,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CU3419-006",
+      "name": "Zuum Winflow",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 338,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CW3419-100",
+      "name": "Zuum Winflow",
+      "colors": [54]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 339,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DA1106-006",
+      "name": "Questar 4",
+      "colors": [29]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 340,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DA1106-101",
+      "name": "Questar 5",
+      "colors": [64]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 341,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "BQ3207-002",
+      "name": "Revolution",
+      "colors": [29]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 342,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "BA1105-400",
+      "name": "Questar 4",
+      "colors": [98]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 343,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CD6864-010",
+      "name": "Air Max 90",
+      "colors": [29]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 344,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CW4554-100",
+      "name": "Air Max Sc",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 345,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CW1626-600",
+      "name": "Air Max Bolt",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 346,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EF0103-0",
+      "name": "Grand Court",
+      "colors": [127]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 347,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EG2000-0",
+      "name": "Advantage",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 348,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FX4186",
+      "name": "Hiper Terrex Caña",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 349,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FY9494",
+      "name": "Runfalcony 2.0",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 350,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "GV9938",
+      "name": "Eq21 Irun",
+      "colors": [28]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 351,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CQ9380-400",
+      "name": "Lebron Witnes",
+      "colors": [78]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 352,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 6,
+      "code": "403770",
+      "name": "N/nvlm",
+      "colors": [123]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 353,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 6,
+      "code": "302470",
+      "name": "N/nvy",
+      "colors": [74]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 354,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 6,
+      "code": "401521",
+      "name": "N/bklm",
+      "colors": [62]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 355,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 6,
+      "code": "302434",
+      "name": "L/wmlt",
+      "colors": [60]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 356,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 6,
+      "code": "302430",
+      "name": "L/bkmt",
+      "colors": [108]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 357,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CJ8058-014",
+      "name": "Air Max A",
+      "colors": [90]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 358,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DA1352-002",
+      "name": "City Rep",
+      "colors": [29]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 359,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CK9267-001",
+      "name": "Zuum Wmns",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 360,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DJ1196-002",
+      "name": "Defy All Day",
+      "colors": [71]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 361,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DJ1196-100",
+      "name": "Defy All Day",
+      "colors": [102]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 362,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 6,
+      "code": "32703-",
+      "name": "Nvy Lace Mechand Nylon",
+      "colors": [24]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 363,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 6,
+      "code": "12118",
+      "name": "Wbk",
+      "colors": [25]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 364,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 6,
+      "code": "23744",
+      "name": "Bbk City Pro",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 365,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 6,
+      "code": "15116",
+      "name": "Mve Gorunmojo Ensure",
+      "colors": [119]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 366,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 6,
+      "code": "13101",
+      "name": "Nvpk Ultraflex Happy Days",
+      "colors": [134]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 367,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 6,
+      "code": "13062",
+      "name": "Bkhp Flex Apare 3.0",
+      "colors": [34]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 368,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 6,
+      "code": "13024",
+      "name": "Bkw Meridiam Savy",
+      "colors": [97]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 369,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 6,
+      "code": "13100",
+      "name": "Ros Ultra Flex Wind Soong",
+      "colors": [92]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 370,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 6,
+      "code": "13292",
+      "name": "Lghp Air Ultra Flex",
+      "colors": [77]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 371,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CJ0302-501",
+      "name": "Wimns Zuum Winflox 7",
+      "colors": [102]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 372,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CW3421-500",
+      "name": "Wmns Winflo",
+      "colors": [49]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 373,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CW3421-005",
+      "name": "Wmns Winflo 8",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 374,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DA1106-102",
+      "name": "Wmns Quest 5",
+      "colors": [136]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 375,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CU9452-005",
+      "name": "Infinity",
+      "colors": [121]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 376,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DH1316-101",
+      "name": "Air 90",
+      "colors": [82]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 377,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "BC0973",
+      "name": "Terrex Eastral",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 378,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "BB9808",
+      "name": "Neo",
+      "colors": [14]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 379,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 14,
+      "code": "AR3169",
+      "name": "Exofit Ar",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 380,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 14,
+      "code": "059503",
+      "name": "Workourt Plus",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 381,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 15,
+      "code": "CQ9233-101",
+      "name": "Air Cadence",
+      "colors": [100]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 382,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CW7356-002",
+      "name": "Zoom Pegazus",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 383,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DH2728-091",
+      "name": "Super Rap",
+      "colors": [123]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 384,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CK2612-002",
+      "name": "Air 2090",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 385,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CZ3867-100",
+      "name": "Air 2090",
+      "colors": [18]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 386,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DA9261-400",
+      "name": "Air 2090",
+      "colors": [29]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 387,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DJ1998-100",
+      "name": "Venture Runner Urb",
+      "colors": [104]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 388,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CU9452-002",
+      "name": "Infinity",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 389,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 16,
+      "code": "CU9452-007",
+      "name": "Infinity",
+      "colors": [18]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 390,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CT1833-100",
+      "name": "Air Max Reac 270",
+      "colors": [85]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 391,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CU9333-100",
+      "name": "Air Max Reac 270",
+      "colors": [123]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 392,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CW3400-007",
+      "name": "Kd Treys Ix",
+      "colors": [38]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 393,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CZ0604-010",
+      "name": "Super Rap",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 394,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 15,
+      "code": "CQ4021-102",
+      "name": "Jumpan",
+      "colors": [130]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 395,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "GZ5300",
+      "name": "Advantage",
+      "colors": [48]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 396,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DA7995-101",
+      "name": "Woofle",
+      "colors": [123]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 397,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DA7995-401",
+      "name": "Woofle",
+      "colors": [25]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 398,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 15,
+      "code": "CW5992-001",
+      "name": "Ma2",
+      "colors": [16]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 399,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CW1626-401",
+      "name": "Air Max Runner",
+      "colors": [25]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 400,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DA4075-101",
+      "name": "Bloger Low",
+      "colors": [11]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 401,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "G27554",
+      "name": "Rapida Run Star Ward",
+      "colors": [11]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 402,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FV5788",
+      "name": "Uture Star Ward",
+      "colors": [19]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 403,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FW3960",
+      "name": "Swith",
+      "colors": [106]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 404,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DA1105-010",
+      "name": "Questar 4",
+      "colors": [9]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 405,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CD4165-106",
+      "name": "Air Max Exel",
+      "colors": [114]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 406,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CU3504-005",
+      "name": "Renew",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 407,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 16,
+      "code": "CU3507-003",
+      "name": "Renew Ride",
+      "colors": [137]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 408,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 16,
+      "code": "CU3507405",
+      "name": "Renew Ride",
+      "colors": [93]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 409,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "19263203",
+      "name": "Radiate Xt Patter",
+      "colors": [2]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 410,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "37112805",
+      "name": "Amzarum Lite",
+      "colors": [23]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 411,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "37112505",
+      "name": "Cilia - Mode",
+      "colors": [123]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 412,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "36815301",
+      "name": "Smash",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 413,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "37310842",
+      "name": "X Ray Square",
+      "colors": [90]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 414,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "37311738",
+      "name": "R78",
+      "colors": [42]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 415,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "37628806",
+      "name": "Incemeonte",
+      "colors": [87]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 416,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "38043515",
+      "name": "Electon",
+      "colors": [18]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 417,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "38390601",
+      "name": "Carina Lagomania",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 418,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "38464705",
+      "name": "Cassia",
+      "colors": [80]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 419,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "BC0524",
+      "name": "Terrex Ax3",
+      "colors": [88]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 420,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FZ3255",
+      "name": "Terrex Ax4",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 421,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FZ3252",
+      "name": "Trrex Ax4",
+      "colors": [67]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 422,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EF3365",
+      "name": "Terrex Ax3 Gorotex",
+      "colors": [22]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 423,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FX7339",
+      "name": "Terrex Swift",
+      "colors": [120]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 424,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FZ3283",
+      "name": "Terrex Ax4",
+      "colors": [114]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 425,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "GX5757",
+      "name": "Grand Courd Beyond",
+      "colors": [11]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 426,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "GW5488",
+      "name": "Streetcheck",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 427,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "GW5489",
+      "name": "Streetcheck",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 428,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "GW5493",
+      "name": "Streetcheck",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 429,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "C77124",
+      "name": "Super Star",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 430,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "315122111",
+      "name": "For One Xxx",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 431,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DB2477300",
+      "name": "Craten Impact",
+      "colors": [106]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 432,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CT8527100",
+      "name": "Jordan",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 433,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "487724607",
+      "name": "Jordan Retro",
+      "colors": [113]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 434,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "AQ3835160",
+      "name": "Jordan Retro",
+      "colors": [23]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 435,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "GW0264",
+      "name": "Bud Bunny",
+      "colors": [137]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 436,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FZ3900",
+      "name": "Boss Zx 2k",
+      "colors": [95]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 437,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DC3729001",
+      "name": "Revolution",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 438,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DA8301100",
+      "name": "Air Fort",
+      "colors": [72]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 439,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "H02753",
+      "name": "Ultra Boss",
+      "colors": [54]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 440,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "CK2531900",
+      "name": "Air Max 270",
+      "colors": [43]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 441,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "GY4189",
+      "name": "Boss Zx 2k",
+      "colors": [112]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 442,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DD1095003",
+      "name": "Revolution",
+      "colors": [68]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 443,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DD1095608",
+      "name": "Revolution",
+      "colors": [29]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 444,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DA2777008",
+      "name": "Star Runner",
+      "colors": [22]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 445,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "F36483",
+      "name": "Grand Courd",
+      "colors": [11]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 446,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EE7874",
+      "name": "Grand Courd Base",
+      "colors": [8]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 447,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DJ6054100",
+      "name": "Waffle Trainner",
+      "colors": [110]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 448,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DJ9568001",
+      "name": "Air Presto",
+      "colors": [136]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 449,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "BB1930",
+      "name": "Terrex Ax2r",
+      "colors": [123]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 450,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "BB1935",
+      "name": "Terrex R",
+      "colors": [90]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 451,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EF0212",
+      "name": "Advantage",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 452,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "GZ3318",
+      "name": "Grand Court",
+      "colors": [117]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 453,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "GX5762",
+      "name": "Grand Courd Beyond",
+      "colors": [67]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 454,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "GX5755",
+      "name": "Grand Courd Beyond",
+      "colors": [127]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 455,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DC3728006",
+      "name": "Revolution",
+      "colors": [100]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 456,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DA1106105",
+      "name": "Quest 4",
+      "colors": [18]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 457,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CW7136-600",
+      "name": "Reac",
+      "colors": [50]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 458,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CW7121-005",
+      "name": "Reac",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 459,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CD4373-105",
+      "name": "Reac",
+      "colors": [18]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 460,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "GZ7741",
+      "name": "Boost",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 461,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "GZ3494",
+      "name": "Boost",
+      "colors": [12]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 462,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "GZ9087",
+      "name": "Boost",
+      "colors": [10]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 463,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "H00471",
+      "name": "Onwe Hare",
+      "colors": [129]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 464,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "HO2751",
+      "name": "Retro Boos",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 465,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "C10919101",
+      "name": "For One",
+      "colors": [122]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 466,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "BQ6472500",
+      "name": "Jordan",
+      "colors": [75]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 467,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CY8836-017",
+      "name": "Air Max",
+      "colors": [14]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 468,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CY8836001",
+      "name": "Air Max",
+      "colors": [22]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 469,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "GZ3045",
+      "name": "Jogger",
+      "colors": [93]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 470,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "GX5761",
+      "name": "Grand Court",
+      "colors": [114]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 471,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "GZ5299",
+      "name": "Advantage",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 472,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "HOO517",
+      "name": "Eq21",
+      "colors": [40]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 473,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "GX8252",
+      "name": "Run Falcony",
+      "colors": [18]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 474,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "GX3250",
+      "name": "Run Falcony",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 475,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "194849",
+      "name": "Dreawer Mid",
+      "colors": [57]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 476,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "194849-03",
+      "name": "Dreawer Mid",
+      "colors": [131]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 477,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "36521506",
+      "name": "Smash",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 478,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "36521504",
+      "name": "Smash",
+      "colors": [106]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 479,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "38074701",
+      "name": "Rebound Joy Low",
+      "colors": [64]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 480,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "38384902",
+      "name": "Rose Row Meta Mies",
+      "colors": [85]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 481,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "19526501",
+      "name": "Platinum Shimmer",
+      "colors": [112]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 482,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CU3507-009",
+      "name": "Renew Ride",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 483,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CU3504-011",
+      "name": "Renew Run 2",
+      "colors": [112]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 484,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DC8890-200",
+      "name": "Waffle",
+      "colors": [97]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 485,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DJ9776-200",
+      "name": "Waffle",
+      "colors": [22]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 486,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CN2386-600",
+      "name": "Crater Impact",
+      "colors": [88]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 487,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DA9492-004",
+      "name": "Air Zoom Sunperrep",
+      "colors": [46]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 488,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "GZ9215",
+      "name": "Hiper Hiker Caña",
+      "colors": [49]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 489,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "GZ9214",
+      "name": "Hiper Hiker Caña",
+      "colors": [14]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 490,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FZ1837",
+      "name": "Breaknet",
+      "colors": [129]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 491,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 17,
+      "code": "AR3168",
+      "name": "Exofit",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 492,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 17,
+      "code": "IY3501",
+      "name": "Prince",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 493,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DA1923500",
+      "name": "Air Max 2021",
+      "colors": [99]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 494,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "GY8283",
+      "name": "Zx Bosh",
+      "colors": [92]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 495,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "WI01004",
+      "name": "Super Star",
+      "colors": [11]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 496,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DA1192-004",
+      "name": "Choteras",
+      "colors": [79]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 497,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DA1192110",
+      "name": "Choteras",
+      "colors": [25]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 498,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CW3403003",
+      "name": "Precision",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 499,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 15,
+      "code": "DC7701001",
+      "name": "Kiry Low Take",
+      "colors": [131]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 500,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DN3205-061",
+      "name": "Jordan",
+      "colors": [54]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 501,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DN3205106",
+      "name": "Jordan",
+      "colors": [21]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 502,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "CZ9218",
+      "name": "Terrex Hiper Hiker",
+      "colors": [31]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 503,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "317389001",
+      "name": "Air Saint German",
+      "colors": [45]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 504,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "819523064",
+      "name": "Air Max Premium",
+      "colors": [94]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 505,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DM9094100",
+      "name": "Air Max",
+      "colors": [11]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 506,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "881981100",
+      "name": "Air Max Bw Platium",
+      "colors": [2]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 507,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DD1876800",
+      "name": "Air Max Premium",
+      "colors": [38]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 508,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DD1876-900",
+      "name": "Air Max Retro",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 509,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DJ4481100",
+      "name": "Jordan",
+      "colors": [113]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 510,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "AJ7311200",
+      "name": "Air Force Caña",
+      "colors": [131]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 511,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DD1875-668",
+      "name": "Spedy",
+      "colors": [123]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 512,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DD1875668",
+      "name": "Spedy",
+      "colors": [36]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 513,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CV9388107",
+      "name": "Jordan",
+      "colors": [16]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 514,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 15,
+      "code": "DH7138506",
+      "name": "Jordan",
+      "colors": [99]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 515,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "37575707",
+      "name": "Racer Future",
+      "colors": [113]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 516,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "38075002",
+      "name": "Skye Wedge",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 517,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "38075001",
+      "name": "Skye Wedge",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 518,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "37032521",
+      "name": "Carina",
+      "colors": [82]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 519,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "GY8311",
+      "name": "Terrex A X2s",
+      "colors": [67]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 520,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "Q46587",
+      "name": "Terrex Ax25",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 521,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "FX8724",
+      "name": "Breaknet",
+      "colors": [55]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 522,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 18,
+      "code": "166799C",
+      "name": "All Star",
+      "colors": [36]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 523,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "M20605",
+      "name": "Stan Smit",
+      "colors": [128]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 524,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DC3729003",
+      "name": "Revolution",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 525,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DH9523600",
+      "name": "Wafle",
+      "colors": [113]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 526,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DJ16012-001",
+      "name": "Kyrie",
+      "colors": [138]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 527,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CW3403006",
+      "name": "Precision",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 528,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CU4150102",
+      "name": "Lagacy Court",
+      "colors": [46]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 529,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CW3406005",
+      "name": "Renew",
+      "colors": [75]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 530,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CU3528600",
+      "name": "Run",
+      "colors": [124]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 531,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CU3584456",
+      "name": "Mctr",
+      "colors": [95]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 532,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DJ2901484",
+      "name": "Jr Vapor 14cl",
+      "colors": [44]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 533,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 6,
+      "code": "302016",
+      "name": "Lbkaq",
+      "colors": [38]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 534,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "BA7897",
+      "name": "Escolar",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 535,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 19,
+      "code": "VF315122111",
+      "name": "Air Force",
+      "colors": [18]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 536,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "PW00100",
+      "name": "Bonce",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 537,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "GX4221",
+      "name": "Racer Rebold",
+      "colors": [25]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 538,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "GV9553",
+      "name": "Runfalcony",
+      "colors": [110]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 539,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 17,
+      "code": "1734",
+      "name": "Prince",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 540,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CK2669001",
+      "name": "Renew Caña Debate",
+      "colors": [67]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 541,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CI0905",
+      "name": "Vista",
+      "colors": [111]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 542,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CK2090101",
+      "name": "Treidy",
+      "colors": [21]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 543,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "38073812",
+      "name": "Gramation",
+      "colors": [77]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 544,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "DA2400100",
+      "name": "Air Max",
+      "colors": [99]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 545,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CU9220700",
+      "name": "Jah",
+      "colors": [37]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 546,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 16,
+      "code": "CK2947100",
+      "name": "Air Max 2x",
+      "colors": [134]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 547,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "PJ1998100",
+      "name": "Venture Rum",
+      "colors": [123]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 548,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CK6618100",
+      "name": "Jordan",
+      "colors": [57]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 549,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CN8533001",
+      "name": "Air Force One",
+      "colors": [18]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 550,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CJ0780601",
+      "name": "Jorda",
+      "colors": [108]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 551,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CK6618-101",
+      "name": "Jordan",
+      "colors": [29]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 552,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 7,
+      "code": "4501312434",
+      "name": "Air Mour Chim",
+      "colors": [97]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 553,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "10449308",
+      "name": "Chimp",
+      "colors": [5]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 554,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 3,
+      "code": "10397402",
+      "name": "Eurower Chot",
+      "colors": [26]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 555,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 20,
+      "code": "85938UFWY",
+      "name": "Chotera",
+      "colors": [51]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 556,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 20,
+      "code": "85946UGXU",
+      "name": "Chotera",
+      "colors": [128]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 557,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "CP9174",
+      "name": "Nemezis Chim",
+      "colors": [87]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 558,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "AJ14146600",
+      "name": "Chimpun",
+      "colors": [78]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 559,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "AH7342081",
+      "name": "Chotera",
+      "colors": [30]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 560,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "CM8533",
+      "name": "Predator",
+      "colors": [29]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 561,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "AJ3570600",
+      "name": "Mercurial Chot",
+      "colors": [90]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 562,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CK6611101",
+      "name": "Jordan",
+      "colors": [6]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 563,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "BK3449102",
+      "name": "Jordan",
+      "colors": [11]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 564,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CD3003006",
+      "name": "Jordan",
+      "colors": [125]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 565,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "AO6218101",
+      "name": "Jordan",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 566,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "AU2605401",
+      "name": "Caña",
+      "colors": [25]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 567,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "AO2445001",
+      "name": "Air Max Caña",
+      "colors": [49]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 568,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "831954404",
+      "name": "Nercurial Chote",
+      "colors": [69]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 569,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "807471101",
+      "name": "Cortex",
+      "colors": [7]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 570,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CD6888002",
+      "name": "Reac Vision",
+      "colors": [1]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 571,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "EE6924",
+      "name": "Duramo",
+      "colors": [12]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 572,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CZ3668005",
+      "name": "Legen",
+      "colors": [13]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 573,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 19,
+      "code": "DJ2879484",
+      "name": "Choteras Merc",
+      "colors": [94]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 574,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 19,
+      "code": "341192117",
+      "name": "Air Max Force",
+      "colors": [107]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 575,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 21,
+      "code": "GY9725",
+      "name": "Turbo",
+      "colors": [97]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 576,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 19,
+      "code": "AH6789100",
+      "name": "Air",
+      "colors": [11]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 577,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 19,
+      "code": "AH8050007",
+      "name": "Air",
+      "colors": [31]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 578,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CZ5358200",
+      "name": "Air",
+      "colors": [99]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 579,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "GW9057",
+      "name": "Tensure",
+      "colors": [14]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 580,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "GW6121",
+      "name": "Runfalcony",
+      "colors": [82]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 581,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CQ9356402",
+      "name": "Legend Essential",
+      "colors": [131]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 582,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CQ9356007",
+      "name": "Legeng Essential 2",
+      "colors": [77]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 583,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 2,
+      "code": "CZ3959020",
+      "name": "Dowshifter",
+      "colors": [105]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 584,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "GY7118",
+      "name": "Grand Court Alpha",
+      "colors": [123]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 585,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 1,
+      "code": "GW6254",
+      "name": "Speed Motion",
+      "colors": [105]
+    }
+  },
+  {
+    "model": "management.shoemodel",
+    "pk": 586,
+    "fields": {
+      "created_at": "2022-12-29T23:46:00Z",
+      "modified_at": "2022-12-29T23:46:00Z",
+      "brand": 22,
+      "code": "CT4080600",
+      "name": "Basket",
+      "colors": [98]
+    }
+  }
+]
